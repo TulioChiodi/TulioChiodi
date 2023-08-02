@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on Speech Synthesis (TTS)  
+🔭 I’m currently working on Conversational Engines (NLP, NLU, NLG, LLMs, etc.)  
 📫 How to reach me: tuliochiodi@gmail.com
 
 
